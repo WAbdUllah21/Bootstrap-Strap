@@ -1,0 +1,265 @@
+.first-image{
+height: 600px !important;
+ width: 100%;
+position: absolute;
+max-width: 100%;
+top: 0%;
+z-index: -1;
+}
+.first-image img{
+    height: 750px !important;
+    max-width: 100%;
+    -webkit-filter: brightness(0.6);
+    filter: brightness(0.6);
+}
+
+
+.container{
+    margin-top: 2%;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1;
+    
+}
+/* navbar */
+
+.navbar::scroll{
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+/*                   -----------------------------                                     */
+
+
+
+.content{
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+    padding:0 10% 0px;
+    line-height: 1.5;
+    font-size: 2rem;
+    margin-right: 15%;
+    margin-left: 15%;
+    
+}
+
+.content p{
+    font-size: 1.3rem;
+    margin-top: 4%;
+}
+
+.content button{
+    padding: 2% 8% 2%;
+    margin: 3%;
+    background-color: orangered;
+    font-weight: 800;
+}
+
+.content h1{
+    font-size: 3rem !important;
+    margin-bottom : 3px
+
+}
+
+/* second page */
+
+
+#secondpage{
+    background-color: orangered;
+    margin-top: 10%;
+    
+    text-align: center;
+    margin-top: 180.95;
+    margin-bottom: 151‒;
+    padding-top: 102px;
+    border-bottom-width: 92px;
+    
+
+}
+
+.second{
+    padding: 5% 15% 5%;
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+    line-height: 1;
+}
+
+.second p{
+    font-size: 1rem;
+    padding: 0 15% 0;
+    margin: 5px 0 5px 0px;
+}
+
+
+.second h1{
+    margin: 5px 0 5px 0;
+}
+
+.second button{
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+    background-color: grey;
+    margin-top: 10px;
+   
+}
+.second hr{
+    height: 0.2rem;
+  max-width: 3.25rem;
+  margin: 1.5rem auto;
+  background-color: #f4623a;
+  opacity: 1;
+}
+
+
+
+/* third */
+
+#SERVICES{
+    text-align: center !important;
+    margin: 12% 10% 12%;
+}
+
+
+#SERVICES hr{
+    background-color: red;
+    opacity: 1;
+    height: 0.2rem;
+    max-width: 3rem;
+    margin-left: 48%;
+     margin-top: 20px ;
+    margin-bottom: 4px;  
+}
+
+#SERVICES  .row{
+    
+    margin: 7% 0 0;
+    font-size: 1.2rem;
+
+}
+
+#SERVICES h3{
+    margin-top: 5%;
+}
+
+
+
+/* images */
+
+#Images img{
+    width: 503px;
+    height: 380px;
+    
+    
+
+}
+
+
+
+
+
+
+
+
+/* free download */
+
+.body{
+    background-color: #686D76;
+    text-align: center;
+    
+    margin-top: 0px;
+    border-top-width: 0px;
+    padding-top: 162px;
+    padding-bottom: 152px;
+
+}
+
+.body h1{
+    font-size: 2.8rem;
+    margin-bottom: 30px;
+}
+
+.body button{
+  padding: 1.25rem 2.25rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 10rem;
+}
+
+
+
+/* contain */
+
+#down{
+    text-align: center !important;
+    margin-top: 12%;
+}
+
+.container{
+    font-size: 2rem;
+    line-height: 1.5;
+    font-style: lowercase !important;
+}
+
+.one{
+    margin: 5%;
+    border-radius: 5%;
+    
+}
+
+
+.contain p{
+    font-size: 1.3rem;
+    padding:0 20% 0;
+    color: #686D76;
+}
+
+.contain button{
+    background-color: #f4623a;
+    
+    padding-right: 111px;
+    padding-left: 122px;
+    padding-top: 6px;
+    padding-bottom: -4px;
+    text-align: center;
+    color: white;
+    border-radius: 5%;
+    border: 1px solid grey;
+    font-weight: 800;
+
+    font-size: 2rem;;
+}
+
+
+.Phoneno{
+    margin-top: 10%;
+    font-size: 2rem;
+    color: #686D76;
+}
+
+.Phoneno p{
+    margin-top: 20px;
+}
+
+
+.footer{
+    text-align: center;
+    background-color: #686D76;
+    padding: 5%;
+    font-size: 1.2rem;
+}
